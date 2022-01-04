@@ -1,0 +1,34 @@
+#navbar{
+    margin: 50px;
+}
+#mainpage{
+    margin: 10px;
+}
+#biography{
+    margin: 10px;
+}
+#reflection{
+    margin: 10px;
+}
+nav ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+nav ul li{
+    display: block;
+    margin-left: 70px;
+}
+nav ul li a{
+    color: white;
+}
+h1{
+    text-align: center;
+}
+article{
+    font-size: 30px;
+    margin-top: 70px;
+    height: 100%;
+    width: 75%;
+    padding-left: 480px;
+}
